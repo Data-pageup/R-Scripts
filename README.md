@@ -1,8 +1,8 @@
 # 📊 Multivariate Normal Distribution (MVND) — Assignments
 
 > **Course:** Multivariate Normal Distribution (MVND)
-> **Submitted by:** Amirthaganesh Ramesh
-> **Contact for Scripts:** [amirthaganeshramesh@gmail.com](mailto:amirthaganeshramesh@gmail.com)
+> **by:** Amirtha Ganesh R
+> **Contact for r Scripts:** [amirthaganeshramesh@gmail.com](mailto:amirthaganeshramesh@gmail.com)
 
 ---
 
@@ -125,3 +125,4 @@ If you'd like access to the **R scripts** for any of the assignments, please rea
 ## ⭐ Note
 
 > All reports are self-prepared with original datasets (wherever required). Results and interpretations reflect individual analysis and understanding of multivariate statistical methods.
+
