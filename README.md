@@ -1,7 +1,7 @@
 #  Multivariate Normal Distribution (MVND)
-## > **Course:** Multivariate Normal Distribution (MVND)
-## > **by:** Amirtha Ganesh R
-## > **Contact for r Scripts:** [amirthaganeshramesh@gmail.com](mailto:amirthaganeshramesh@gmail.com)
+###  **Course:** Multivariate Normal Distribution (MVND)
+###  **by:** Amirtha Ganesh R
+####  **Contact for r Scripts:** [amirthaganeshramesh@gmail.com](mailto:amirthaganeshramesh@gmail.com)
 
 ---
 
